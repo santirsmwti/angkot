@@ -26,13 +26,13 @@ Website ini merupakan website jadwal transportasi bus Garut.
 ## Akun Default untuk Pengujian
 
 1. **Administrator:**
-    - Username: admin
-    - Password: admin123
+    - **Username:** admin
+    - **Password:** admin123
 
 2. **Pengguna:**
-    - Username: user
-    - Password: user123
-
+    - **Username:** user
+    - **Password:** user123
+      
 ## ERD
 
 ![alt text](https://github.com/santirsmwti/angkot/blob/main/image/erdsanti.jpg?raw=true)
