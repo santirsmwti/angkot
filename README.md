@@ -35,11 +35,11 @@ Website ini merupakan website jadwal transportasi bus Garut.
 
 ## ERD
 
-![alt text] (https://github.com/santirsmwti/angkot/blob/main/image/erdsanti.jpg?raw=true)
+![alt text](https://github.com/santirsmwti/angkot/blob/main/image/erdsanti.jpg?raw=true)
 
 ## UML
 
-![alt text] (https://github.com/santirsmwti/angkot/blob/main/image/umlsanti.jpeg?raw=true)
+![alt text](https://github.com/santirsmwti/angkot/blob/main/image/umlsanti.jpeg?raw=true)
 
 ## Persyaratan Instalasi
 
